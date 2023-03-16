@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "621387116403",
+    "project_id": "chat-service-app-f0fad",
+    "storage_bucket": "chat-service-app-f0fad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:621387116403:android:137ba61d5b68db1ebe9f06",
+        "android_client_info": {
+          "package_name": "com.scorpiona.chat_service_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "621387116403-1o0vicpld49crk9nm3b0caplgqdah27s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.scorpiona.chat_service_app",
+            "certificate_hash": "de8f932544736970edfa32b365586c2b24e5e6b2"
+          }
+        },
+        {
+          "client_id": "621387116403-re230i5d9krgb9k3spi8qnjc3pi7fg5t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAghY4pAU82P8HLFfu1_JhMPw8JYabyg1o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "621387116403-c2ijdgfrqno09agko4mm9pqqthj050vq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "621387116403-cenj3umfofrt2sj6fjhb0lpfpdi1vt75.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.scorpiona.chatServiceApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
